@@ -1,6 +1,7 @@
 1. Generar Diagrama Entidad Relación
 2. Encontrar los Esquemas
 3. Realizar pasaje a tablas.
+   
  A partir del siguiente enunciado se desea realizar el modelo entidad-relación.
 Se quiere diseñar una base de datos relacional para administrar la logística,
 compras e inventario de un negocio, asegurando el registro de los productos,
